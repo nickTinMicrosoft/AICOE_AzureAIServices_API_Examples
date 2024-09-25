@@ -9,3 +9,7 @@ Example code from MS docs Quickstars on how to use Azure Cognitive Services APIs
 * Synchronous API
     * Text analysis Keywords
     * Text analysis Sentiment Analysis
+
+
+## At this time all code examples are writen in Python using Jupyter notebooks. 
+## The examples provided are for learning purposes only, and are NOT concidered "Production Ready", use examples at your own risk.
