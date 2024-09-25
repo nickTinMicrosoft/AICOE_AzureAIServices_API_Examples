@@ -4,7 +4,8 @@
 Example code from MS docs Quickstars on how to use Azure Cognitive Services APIs
 
 * Asynchronous API
-    * Text To Speech
+    * Text to Speech
+    * Speech to Text
 
 * Synchronous API
     * Text analysis Keywords
