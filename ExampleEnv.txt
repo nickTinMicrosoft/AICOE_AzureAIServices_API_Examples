@@ -1,0 +1,13 @@
+#for speech to text and text to speech notebooks
+SPEECH_KEY = <key to Azure Speech Service>
+
+#for text keywords and text sentiment notebooks
+LANGUAGE_KEY = <key to Azure Language Services>
+LANGUAGE_ENDPOINT = <endpoint to Azure Language Services>
+
+#for document translation notebook
+DOC_TRANSLATE_KEY = <Azure Translate service Key>
+DOC_TRANSLATE_ENDPOINT = <Azure Translate Endpoint>
+SOURCE_URL = <SAS URL to Source Container>
+TARGET_URL = <SAS URL to Target Container>
+

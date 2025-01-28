@@ -2,8 +2,11 @@
 
 ### Included in this Repo
 Example code from MS docs Quickstars on how to use Azure Cognitive Services APIs
+* aoai code
+    * image generation using DALL-E 3 Azure Open AI Model --- must have Azure Open AI and DALL-E model deployed
 
 * Asynchronous API
+    * Document Translator (both Async and Sync in notebook)
     * Text to Speech
     * Speech to Text
 
@@ -11,6 +14,19 @@ Example code from MS docs Quickstars on how to use Azure Cognitive Services APIs
     * Text analysis Keywords
     * Text analysis Sentiment Analysis
 
+### Pre Reqs
+In Azure you will need the following services 
+
+* Azure AI Services | Azure AI services multi-service account
+    Used for Text_Sentiment and Text_Keywords notebooks
+
+* Azure AI Services | Speech Service
+    Used for Speech_to_text and Text_to_Speech notebooks
+
+* Azure AI Services | Translatator
+    Used for Document_Translation notebook
+    
+Make sure to create your Pyton environment and .env files. env_example.env.txt is a sample .env file. Rename to .env and enter your Azure service information.
 
 ## At this time all code examples are writen in Python using Jupyter notebooks. 
 ## The examples provided are for learning purposes only, and are NOT concidered "Production Ready", use examples at your own risk.
