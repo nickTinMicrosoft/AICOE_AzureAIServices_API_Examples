@@ -1,4 +1,4 @@
-*image.png*```
+![SLG AI COE logo](image.png)
 
 # AI Summit - App + AI Innovation - Empower Citizens with AI Powered Applications on Azure
 ## All code is written using Jupyter Notebooks, you will need to install the Jupyter Notebooks extension in VS Code
