@@ -11,3 +11,7 @@ DOC_TRANSLATE_ENDPOINT = <Azure Translate Endpoint>
 SOURCE_URL = <SAS URL to Source Container>
 TARGET_URL = <SAS URL to Target Container>
 
+# for Azure Open AI
+AZURE_OPENAI_API_KEY = <AOAI Key>
+AZURE_OPENAI_ENDPOINT = <AOAI Endpoint>
+
