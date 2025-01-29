@@ -37,8 +37,8 @@ To create, activate and update python virtual environment
 1. Open new Terminal
 2. Execute the following in terminal: *virtualenv venv*
 3. Activate environment by executing the following: 
-   In Windows: .\venv\Scripts\activate
-   In Linux or Mac: _source venv/bin/activate_
+   * In Windows: .\venv\Scripts\activate
+   * In Linux or Mac: _source venv/bin/activate_
 4. Install Required Packages: _pip install -r requirements.txt_
 
 ## At this time all code examples are writen in Python using Jupyter notebooks. 
