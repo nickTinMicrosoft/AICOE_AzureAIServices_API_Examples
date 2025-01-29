@@ -20,6 +20,8 @@ Example code from MS docs Quickstarts on how to use Azure Cognitive Services API
 ### Pre Reqs
 In Azure you will need the following services 
 
+* Azure Open AI
+
 * Azure AI Services | Azure AI services multi-service account
     Used for Text_Sentiment and Text_Keywords notebooks
 
