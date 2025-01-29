@@ -36,6 +36,7 @@ Make sure to create your Pyton environment and .env files. env_example.env.txt i
 To create, activate and update python virtual environment
 1. Open new Terminal
 2. Execute the following in terminal: ``` virtualenv venv ```
+    * If virtualenv is not installed you may have to pip install it ``` pip install virtualenv ```
 3. Activate environment by executing the following: 
    * In Windows: ``` .\venv\Scripts\activate ```
    * In Linux or Mac:``` source venv/bin/activate ```
