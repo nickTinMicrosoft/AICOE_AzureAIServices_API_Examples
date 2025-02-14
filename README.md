@@ -7,6 +7,8 @@ Example code from MS docs Quickstarts on how to use Azure Cognitive Services API
 
 * aoai code
     * image generation using DALL-E 3 Azure Open AI Model --- must have Azure Open AI and DALL-E model deployed
+    * Document App allows for document summary and translation using gpt-4o (or other models). You upload a txt or PDF file, once content is read you can build a summary by choosing the language and clicking Summarize. Or you can translate the content to other languages by choosing a language and click Translate.
+    * Graphrag is a Langchain test project that builds relationships within a document using gpt-4o and LangChain framework. It stores the data into a Neo4j Graph Database. Once in Database you use LangChain framework to perform RAG on the graph DB to gather information.
 
 * Asynchronous API
     * Document Translator (both Async and Sync in notebook)
